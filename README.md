@@ -2,6 +2,8 @@
 
 A back-up repositroy for scripts used to build my personal covid project: Honor-Mercy-Beer-Pong. Does not include digital assets used to build the game, or any scripts downloaded from the Unity Store.
 
+Honor-Mercy-Beer-Pong is a fun spin on a classic party game. The 2 key differences are that you don't take turns, and that you can kill your opponent if you win!
+
 Below are links to a trailer for the game, and the itch.io link. Note: game may not work in safari. Play on google chrome!
 
 https://www.youtube.com/watch?v=Yk_RUZcOMvo
