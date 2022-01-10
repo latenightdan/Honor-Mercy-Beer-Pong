@@ -6,4 +6,7 @@ Below are links to a trailer for the game, and the itch.io link. Note: game may 
 
 https://www.youtube.com/watch?v=Yk_RUZcOMvo
 
-https://latenightdan.itch.io/![I Find 1080 Copy 01 00_13_39_23 Still010](https://user-images.githubusercontent.com/69770752/148804787-3307030b-e724-449d-b146-5ca040f4e590.jpg)
+https://latenightdan.itch.io/
+
+
+![I Find 1080 Copy 01 00_13_39_23 Still010](https://user-images.githubusercontent.com/69770752/148805053-179e251e-ce8d-4801-ac35-782d9c668748.jpg)
